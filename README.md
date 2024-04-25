@@ -1,5 +1,8 @@
-Czechoslovakia Banking Financial Data Analysis - Personal Project – Remote · December 2019
 
-Conducted in-depth analysis of financial data, identifying trends, anomalies, and key performance indicators.
-Applied SQL queries for data manipulation, transforming raw data into actionable insights to support decision-making.
-Utilized Python for Exploratory Data Analysis (EDA), extracting meaningful insights into banking trends and client behaviors.
+Projects:
+Sales Analysis - Personal Project – Remote· December 2023
+
+Analyzed 12 months of sales data using Python Pandas and Matplotlib, addressing challenges like NaN values and data type inconsistencies.
+Answered critical business questions, such as identifying the best sales month, top-selling city, optimal advertisement timings, and frequently co-purchased products.
+Demonstrated expertise in advanced Pandas techniques, including concatenating multiple CSVs and parsing string cells for effective data manipulation.
+Documented and shared the project on GitHub (@Analysis_on_pandas), showcasing proficiency in Python Pandas, Matplotlib, and data analysis.
